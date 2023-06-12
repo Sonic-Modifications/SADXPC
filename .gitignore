@@ -1,0 +1,10 @@
+# User files
+*.suo
+*.ncb
+
+# Compiled files
+sonic/Debug
+sonic/Release
+
+# System files
+sonic/system
